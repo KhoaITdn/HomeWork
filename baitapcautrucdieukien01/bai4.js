@@ -1,6 +1,6 @@
-const num1 = parseInt(prompt("Nhập số thứ nhất:"));
-const num2 = parseInt(prompt("Nhập số thứ hai:"));
-const num3 = parseInt(prompt("Nhập số thứ ba:"));
+const num1 = +prompt("Nhập số thứ nhất:"));
+const num2 = +prompt("Nhập số thứ hai:"));
+const num3 = +prompt("Nhập số thứ ba:"));
 
 let max = num1;
 
